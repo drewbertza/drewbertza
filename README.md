@@ -5,8 +5,9 @@ Free stuff. Things I made for fun. Things I'm learning. My current obsessions.
 I'm just a nerd. I love plants, data, technology, and people. I enjoy learning and sharing. 
 Everything I make is just for fun. Some things might be broken, but maybe you'll like them.
 
-## Things I love:
+## Things I love
 * Bash
+* Tea (Alishan jade tieguanyin, gongfu style is my jam)
 * Apps script
 * Learning ways to to make life easier
 * FOSS
@@ -18,7 +19,7 @@ Everything I make is just for fun. Some things might be broken, but maybe you'll
 ## Things I hate
 * Tomatoes
 
-## What I'm learning:
+## What I'm learning
 * Javascript
 * PHP
 * Python
