@@ -20,6 +20,6 @@ Everything I make is just for fun. Some things might be broken, but maybe you'll
 * Tomatoes
 
 ## What I'm learning
+* UI & A11y design
 * Javascript
 * PHP
-* Python
